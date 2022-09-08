@@ -1,8 +1,7 @@
-# 💫About Me :
+# About Me :
 New York University Computer and Data Science student exploring 
 software engineering, data science, and machine learning practices.
 
-## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/richardzhu7) 
 
 # 💻Tech Stack
