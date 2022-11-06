@@ -1,9 +1,9 @@
 # About Me :
-I am a New York University Computer and Data Science student looking for industry opportunities to practice, refine, and expand my skillset.
+I am a Computer and Data Science student at New York University looking for industry opportunities to practice, refine, and expand my skillset.
 
-I delivered key data visualizations, serviceable software, and data-related insights during Tau Motor's Series B funding process and their multi-million dollar partnerships with multiple venture capital firms and major manufacturers. I also created insightful plots, well-documented notebooks, and reports during my time with ObjectSecurity that were showcased to the US Navy and Air Force. My contributions accelerated development in the utilization of 5G cellular signal technology with CNNs and the optimization of inventory data management using generative adversarial networks.
+I delivered key data-driven insights, serviceable software, and multiple high-impact internal tools during Tau Motor's Series B funding process and their multi-million dollar partnerships with multiple venture capital firms and major manufacturers. I also created machine/deep learning models, insightful plots, and notebooks exploring state-of-the-art ML methods during my time with ObjectSecurity that were showcased to the US Navy and Air Force. My contributions accelerated development in the utilization of 5G cellular signal technology with CNNs and the optimization of inventory data management using generative adversarial networks.
 
-This fall, I will be interning at Amazon as a software engineer on the Performance Advertisement Core Engine Team.
+I am currently interning at Amazon as a software engineer on the Performance Advertisement Core Engine Team where I am working on ad payments.
 
 Feel free to connect with me on LinkedIn: https://www.linkedin.com/in/richardzhu7/
 
