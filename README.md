@@ -1,5 +1,5 @@
 # About Me :
-I am a New York University Computer and Data Science student looking for industry opportunities to practice, refine, and expand my skillset, learn from experienced and passionate individuals, and contribute to a meaningful objective. Growth potential, bright coworkers, and a clear and impactful company-wide goal are important to me. 
+I am a New York University Computer and Data Science student looking for industry opportunities to practice, refine, and expand my skillset.
 
 I delivered key data visualizations, serviceable software, and data-related insights during Tau Motor's Series B funding process and their multi-million dollar partnerships with multiple venture capital firms and major manufacturers. I also created insightful plots, well-documented notebooks, and reports during my time with ObjectSecurity that were showcased to the US Navy and Air Force. My contributions accelerated development in the utilization of 5G cellular signal technology with CNNs and the optimization of inventory data management using generative adversarial networks.
 
